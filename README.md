@@ -2,7 +2,11 @@
 
 go to [pixabay](https://pixabay.com/api/docs/) and get your APi Key then create .env file.\
 insert your env variable.\
-REACT_APP_PIXABAY_API_KEY= your api key here.\
+REACT_APP_PIXABAY_API_KEY= your api key here.
+
+![Images, Gallery](./imagesgallery.png)
+
+imagesgallery.png
 
 # Getting Started with Create React App
 
